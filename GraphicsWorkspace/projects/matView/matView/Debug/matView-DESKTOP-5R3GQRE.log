@@ -1,0 +1,12 @@
+﻿  main.cpp
+q:\projects\matview\matview\main.cpp(190): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+q:\projects\matview\matview\main.cpp(191): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+q:\projects\matview\matview\main.cpp(196): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+q:\projects\matview\matview\main.cpp(197): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+q:\projects\matview\matview\main.cpp(199): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+q:\projects\matview\matview\main.cpp(200): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+q:\projects\matview\matview\main.cpp(244): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+q:\projects\matview\matview\main.cpp(245): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+q:\projects\matview\matview\main.cpp(246): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  matView.vcxproj -> Q:\projects\matView\Debug\matView.exe
+  matView.vcxproj -> Q:\projects\matView\Debug\matView.pdb (Full PDB)

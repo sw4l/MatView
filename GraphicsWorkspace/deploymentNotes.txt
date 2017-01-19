@@ -1,0 +1,19 @@
+current libraries inside of openGLlibs folder
+Freeglut 32/64 bit
+glew 32/64 bit
+glfw3 32/64 bit
+glm math libary 
+
+******
+if you get a missing DLL error drop the dll into the executable directory
+******
+
+
+Current TODOs 
+-Finish setting up the project folder such that when switching between 32/64 bit systems you just need to change build target and compile
+			-32 bit is compiling and running now
+-get the tutorial 1 cpp file to run and create a window
+
+
+Task 1 info:
+Set up library include folders and get the dependencies straightened out.
