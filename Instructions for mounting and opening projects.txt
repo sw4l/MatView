@@ -1,0 +1,14 @@
+In order to open and compile the project you must run the batch file deploy drive.
+This will create a Q drive that the project resides in and gives the project wide spread compatibility
+for diffrent people to work on the project. 
+
+after you deploy the drive just run Visual Studio and open the solution and it should compile. 
+(you may need to retarget the windows SDK for your machine, but it shouldnt cause any problems in the long run) 
+
+Controls in when program open
+
+RMB = rotate
+alt + LMB = rotate light
+1 = render faces
+2 = render wireframe
+scroll wheel = zoom in/out
